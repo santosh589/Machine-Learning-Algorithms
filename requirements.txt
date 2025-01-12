@@ -1,0 +1,17 @@
+ipykernel
+pandas
+numpy
+matplotlib
+scikit-learn==1.1.3
+statsmodels
+seaborn
+plotly
+nbformat>=4.2.0
+xgboost 
+geopandas
+openpyxl
+fiona
+pyshp
+
+
+
