@@ -12,6 +12,7 @@ geopandas
 openpyxl
 fiona
 pyshp
-
-
+remotior_sensus
+graphviz
+pydotplus
 
